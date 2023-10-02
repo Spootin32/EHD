@@ -1,7 +1,7 @@
 # EHD
 Goal of the project is to build to first drone with EHD thruster to understand the feasibility of future EHD propelled aircraft.
 Current high level plan is the following:
-1. Create a model EHD thruster (1D only)
+1. [DONE] Create a model EHD thruster (1D only)
 2. Derive the mass of the drone, the min thrust allowed, the supply voltage and power
 3. Draw a first quick design of a dual stage to assess minimum distances required between electrodes and general DOE
 4. Build the first version of the thruster based on learnings from 5.
